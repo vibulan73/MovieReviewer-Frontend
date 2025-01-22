@@ -5,5 +5,7 @@ npm i @fortawesome/react-fortawesome
 npm i @fortawesome/free-solid-svg-icons
 npm i react-player
 npm i react-router-dom
+npm install @mui/material @emotion/react @emotion/styled
+npm install react-material-ui-carousel
 
-1.48.15
+2.04
